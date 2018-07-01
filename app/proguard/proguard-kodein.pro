@@ -1,0 +1,3 @@
+-dontwarn org.kodein.di.**
+-keep class org.kodein.di.** { *; }
+-keepattributes Signature
